@@ -6,29 +6,19 @@ email: contact@brendanhu.com
 description: ""
 baseurl: ""
 url: ""
-author: null
+author:
 street_address: null
 city: San Diego
 state: CA
-zip_code: 92106
-country: United States of America
+zip_code:
+country:
 phone: (510) 423-3241
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6 # Note keep this at 6.
 
 # social settings
 github_url: https://www.github.com/mithridatize
-instagram_url: https://instagram.com/mithridatize
 linkedin_url: https://www.linkedin.com/in/brendanhu
+instagram_url: https://instagram.com/mithridatize
 twitter_url: https://twitter.com/mithridatize
-500px_url:
-facebook_url:
-gitlab_url:
-googleplus_url:
-pinterest_url:
-slack_url:
 
 # build settings
 markdown: kramdown
